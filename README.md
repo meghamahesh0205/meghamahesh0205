@@ -100,7 +100,7 @@ I specialize in building **scalable, reproducible pipelines using Nextflow, Dock
 
 ## 🤝 Connect with Me
 
-📧 [meghamahesh246@gmail.com](mailto:meghamahesh246@gmail.com)
+📧 [meghamahesh1105@gmail.com](mailto:meghamahesh1105@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/megha-m-315a8a319)
 💻 [GitHub](https://github.com/meghamahesh0205)
 
